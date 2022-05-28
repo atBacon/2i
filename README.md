@@ -1,0 +1,9 @@
+# 2i
+Code for 2i Code Test
+
+Assumptions Made:
+Anybody using this will already know what it's for
+They will be using a computer that can run the code
+They can understand English
+They only plan on using whole numbers as inputs
+They have a keyboard that can input numbers
